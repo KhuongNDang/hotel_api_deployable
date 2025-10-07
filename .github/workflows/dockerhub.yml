@@ -1,4 +1,4 @@
-# .github/workflows/workflow.yml
+# .github/workflows/dockerhub.yml
 name: CI/CD WORKFLOW
 on:
   push:
